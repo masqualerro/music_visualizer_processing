@@ -1,6 +1,7 @@
 # music_visualizer_processing
 
 ** download Processing to use app -- https://processing.org/download **
+
 ** code -> download .zip -> open "finalProject.app" after installing Processing**
 
 Music player and visualizer written in Processing using the Minim library
