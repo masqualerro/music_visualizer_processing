@@ -4,6 +4,7 @@
 
 ** code -> download .zip -> open "finalProject.app" after installing Processing**
 
+
 Music player and visualizer written in Processing using the Minim library
 
 Inspired by early 2000s iTunes music player visualizers.
